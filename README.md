@@ -1,7 +1,19 @@
-# Vue 3 + Vite
+# ChitChat-Charm
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+## Overview
+This project combines the power of Vue.js for the frontend and Golang for the backend, creating a seamless and efficient web application. Explore the perfect synergy of modern front-end development with Vue.js and robust back-end services powered by Golang.
 
-## Recommended IDE Setup
+## Getting Started
+Follow the instructions below to set up and run the project on your local machine.
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+### Prerequisites
+- [Vue.js](https://vuejs.org/)
+- [Golang](https://golang.org/)
+
+### Installation
+1. Clone the frontend repository: `git clone https://github.com/your-username/your-repo.git`
+2. Clone the backend repository: `https://github.com/htainhtain/go-openai`
+
+### Usage
+- Start the backend server.
+- Launch the Vue.js frontend application.
